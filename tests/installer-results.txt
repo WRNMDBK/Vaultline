@@ -1,0 +1,4 @@
+PASS package: Vaultline.exe
+PASS package: Vaultline.exe.config
+PASS package: Vaultline.ico
+PASS package: Uninstall.exe

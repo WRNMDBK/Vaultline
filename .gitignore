@@ -1,0 +1,7 @@
+android/tools/
+android/build/
+android/signing/
+android/tests/*.jar
+Data/
+dist/
+release/

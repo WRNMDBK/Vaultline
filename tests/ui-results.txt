@@ -1,0 +1,1 @@
+PASS: navigation, field search, masking/reveal, full-row gold selection focused/unfocused, row details, full export/import toolbar, responsive layout, removed clipboard clearing and rendering.

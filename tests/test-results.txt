@@ -1,0 +1,2 @@
+PASS 56 assertions
+Validated path resolution, JSON, authenticated encryption, tampering, atomic saves, locks and password rotation.
